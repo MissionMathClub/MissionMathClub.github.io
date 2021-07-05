@@ -1,78 +1,18 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Contest Description
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+We are the officers of the math club at Mission San Jose High School, and at **1:30 PST on July 18th, 2021**, we will be hosting an online individual math competition: Summer Mission Math Tournament! (**SMMT**). There will be prizes for the top positions.
 
-**Here is some bold text**
+The competition will have 2 divisions: Warrior and Champion, and you can only participate in one of them.
 
-## Here is a secondary heading
+***Warrior Division**: The test will feature 15 problems, and you'll be given 69 minutes to solve these problems. The difficulty spans the range of the AMC with a couple of early AIME difficulty problems towards the end. The test will feel much like your average AMC.
 
-Here's a useless table:
+***Champion Division**: The test will feature 10 problems, and you'll be given 96  minutes to solve these problems, with the difficulty ranging from mid-AMC to late AIME. If you took the AIME, then this test will feel much like a faster-paced version of it.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+If you're interested, sign up at https://tinyurl.com/SummerMMT2021 and join the Discord server where we'll be hosting the competition https://discord.gg/BnqWpAswfZ! The deadline to sign up is 11:59 PM on July 17.
