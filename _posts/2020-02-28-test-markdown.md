@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Contest Description
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
@@ -11,8 +8,8 @@ We are the officers of the math club at Mission San Jose High School, and at **1
 
 The competition will have 2 divisions: Warrior and Champion, and you can only participate in one of them.
 
-***Warrior Division**: The test will feature 15 problems, and you'll be given 69 minutes to solve these problems. The difficulty spans the range of the AMC with a couple of early AIME difficulty problems towards the end. The test will feel much like your average AMC.
+- **Warrior Division**: The test will feature 15 problems, and you'll be given 69 minutes to solve these problems. The difficulty spans the range of the AMC with a couple of early AIME difficulty problems towards the end. The test will feel much like your average AMC.
 
-***Champion Division**: The test will feature 10 problems, and you'll be given 96  minutes to solve these problems, with the difficulty ranging from mid-AMC to late AIME. If you took the AIME, then this test will feel much like a faster-paced version of it.
+- **Champion Division**: The test will feature 10 problems, and you'll be given 96  minutes to solve these problems, with the difficulty ranging from mid-AMC to late AIME. If you took the AIME, then this test will feel much like a faster-paced version of it.
 
 If you're interested, sign up at https://tinyurl.com/SummerMMT2021 and join the Discord server where we'll be hosting the competition https://discord.gg/BnqWpAswfZ! The deadline to sign up is 11:59 PM on July 17.
