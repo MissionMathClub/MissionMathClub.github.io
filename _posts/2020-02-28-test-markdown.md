@@ -12,4 +12,4 @@ The competition will have 2 divisions: Warrior and Champion, and you can only pa
 
 - **Champion Division**: The test will feature 10 problems, and you'll be given 96  minutes to solve these problems, with the difficulty ranging from mid-AMC to late AIME. If you took the AIME, then this test will feel much like a faster-paced version of it.
 
-If you're interested, sign up at https://tinyurl.com/SummerMMT2021 and join the Discord server where we'll be hosting the competition https://discord.gg/BnqWpAswfZ! The deadline to sign up is 11:59 PM on July 17.
+If you're interested, sign up [here](https://tinyurl.com/SummerMMT2021) and join the [Discord Server](https://discord.gg/BnqWpAswfZ) where we'll be hosting the competition! The deadline to sign up is 11:59 PM on July 17.
